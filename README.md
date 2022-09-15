@@ -18,7 +18,7 @@
 
 |  Date   | Speaker  |Speaker | Speaker  |Speaker |
 |  ----  | ----  | ---- |----  | ---- |
-| 9.15  | Xiaoyu Chen [Slides][Paper][Code] | ----   |----  | ---- |
+| 9.15  | Xiaoyu Chen [Slides][Paper][Code] | Xiaokun Li |  | ---- |
 | 9.22  | ----  | ----   |----  | ---- |
 | 9.29  | ----  | ----   |----  | ---- |
 | 10.13  | ----  | ----   |----  | ---- |
